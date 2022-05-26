@@ -60,8 +60,8 @@
 			children = (
 				599260CC283F780E0092DD02 /* AppDelegate.swift */,
 				599260CE283F780E0092DD02 /* SceneDelegate.swift */,
-				599260E0283F7EDF0092DD02 /* SecondViewController.swift */,
 				599260D0283F780E0092DD02 /* ViewController.swift */,
+				599260E0283F7EDF0092DD02 /* SecondViewController.swift */,
 				599260D2283F780E0092DD02 /* Main.storyboard */,
 				599260D5283F78100092DD02 /* Assets.xcassets */,
 				599260D7283F78100092DD02 /* LaunchScreen.storyboard */,
